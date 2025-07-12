@@ -1,6 +1,3 @@
-# Amazon-Dashboard-2011-2014
-📊 Power BI Dashboard showcasing Amazon Sales Insights from 2011–2014, including key metrics such as Total Sales, Profit, Shipment Types, Top Cities, and Sales Trends.
-
 # 🛒 Amazon Sales Dashboard (2011–2014)
 
 This project presents an interactive Power BI dashboard analyzing Amazon's sales performance from 2011 to 2014. The dashboard provides valuable insights into customer behavior, shipment trends, and profitability across categories and cities.
